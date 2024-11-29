@@ -1,0 +1,2 @@
+# mad
+Mermaid alternative docs
